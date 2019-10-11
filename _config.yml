@@ -7,10 +7,15 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Venkata Yellapantula / Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Venkata Yellapantula"
+description              : &description "
+
+Venkata Yellapantula is a Bioinformatics Engineer at the center for Hematologic Malignancies within MSKCC. His work focuses on lymphoid neoplasms and primarily supports the Multiple Myeloma service and work involving Acute Lymphoblastic Leukemia within the center. Prior to starting to work at MSK, he completed his post-doctoral training at The Genomes Institute at Washington University at Saint Louis. At his time at St Louis, Venkata worked primarily on Pancancer Analysis utilizing datasets such as the TCGA, PCGP and ICGC. He completed his PhD in Bioinformatics working on Multiple Myeloma at Translational Genomics Research Institute in Phoenix. He also holds a bachelors and masters degree in Computer Science.
+
+Venkata is an avid tennis player and also enjoys playing other racquet sports, hiking and rowing.
+"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
